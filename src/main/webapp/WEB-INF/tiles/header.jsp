@@ -1,0 +1,30 @@
+<%@ page pageEncoding="UTF-8" %>
+
+<header class="row">
+    <div class="col">
+        <h1>Lorem Ipsum</h1>
+    </div>
+    <div class="col text-right">
+        <h1><button type="button"
+                    class="btn btn-danger" data-toggle="modal" data-target="#loginmodal">로그인</button>
+            <button type="button"
+                    class="btn btn-primary">회원가입</button></h1>
+    </div>
+</header>
+
+<nav class="nav navbar-expand navbar-dark bg-dark">
+    <ul class="navbar-nav nav-fill w-100">
+        <li class="nav-item">
+            <a class="nav-link" href="intro.html">프로젝트 소개</a></li>
+        <li class="nav-item">
+            <a class="nav-link" href="join/agree.html">회원가입</a></li>
+        <li class="nav-item">
+            <a class="nav-link" href="board/list.html">게시판</a></li>
+        <li class="nav-item">
+            <a class="nav-link" href="pds/list.html">자료실</a></li>
+        <li class="nav-item">
+            <a class="nav-link" href="gallery/list.html">갤러리</a></li>
+        <li class="nav-item">
+            <a class="nav-link" href="admin.html">관리자</a></li>
+    </ul>
+</nav>

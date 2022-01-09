@@ -1,0 +1,10 @@
+package semiproject.vo;
+
+public class MemberVO {
+	private String mno;
+	private String userid;
+	private String passwd;
+	private String email;
+	private String name;
+	private String regdate;
+}

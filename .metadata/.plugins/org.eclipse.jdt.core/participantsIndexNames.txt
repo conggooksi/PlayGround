@@ -1,0 +1,19 @@
+INDEX VERSION 1.131
+C:\kappa\playground\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1654549310.index
+\semiprojectv2\src\main\java
+C:\kappa\playground\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3027017969.index
+\semiprojectv1\src\main\java
+C:\kappa\playground\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3658471339.index
+\semiprojectv2\src\main\java
+C:\kappa\playground\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\912570214.index
+\semiprojectv1\src\main\java
+C:\kappa\playground\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2178407580.index
+\semiprojectv1\src\main\java
+C:\kappa\playground\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1279694075.index
+\semiprojectv2\src\main\java
+C:\kappa\playground\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1905373736.index
+\spring4.mvc\target\generated-sources\annotations
+C:\kappa\playground\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2806290818.index
+\semiprojectv2\src\main\java
+C:\kappa\playground\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3941627.index
+\spring4.mvc\src\main\java

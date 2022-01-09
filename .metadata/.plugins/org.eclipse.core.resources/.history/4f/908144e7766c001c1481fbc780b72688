@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>SemiProjectV1-myinfo</title>
+    <link rel="stylesheet" href="base.css">
+    <style>
+        #myinfo { /*border: 1px solid red;*/
+                  width: 320px; margin: 120px auto;}
+        
+        #myinfo div { margin-bottom: 10px }
+        #myinfo label { display: inline-block; width: 120px;
+                        text-align: right; font-weight: bold }
+        
+    </style>
+</head>
+<body>
+    <div id="container">
+       <header>
+            <h1>세미프로젝트v1</h1><!-- 타이틀 -->
+            <nav>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="join.html">회원가입</a></li>
+                    <li><a href="login.html">로그인</a></li>
+                    <li><a href="list.html">게시판</a></li>
+                    <li><a href="myinfo.html">회원정보</a></li>
+                </ul>
+            </nav> <!-- 상단메뉴 -->
+            <hr> <!-- 구분선 -->
+        </header>
+    
+        <div id="main">
+            <h2>회원정보</h2>        
+            <div id="myinfo">
+                <div><label>아이디</label>
+                kappa </div>
+                
+                <div><label>이름</label>
+                배두나</div>
+                
+                <div><label>이메일</label>
+                kappa@gmail.com</div>
+                
+                <div><label>가입일</label>
+                2021.12.28 11:11:24</div>
+            </div>
+        </div>
+    
+        <footer>
+           <hr> <!-- 구분선 -->
+            <p>Copyright &copy; 2021. kappa. Powered by Brackets. All Rights Reserved.</p>
+        </footer>
+    </div>
+</body>
+</html>

@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+C:\kappa\playground\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3027017969.index
+1345218490.index
+1854005593.index
+171950412.index
+2369492735.index
+1676755178.index
+343746494.index
+4114172091.index

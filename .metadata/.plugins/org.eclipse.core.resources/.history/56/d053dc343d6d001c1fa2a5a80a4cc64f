@@ -1,0 +1,19 @@
+package semiproject.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import semiproject.dao.MemberDAO;
+import semiproject.vo.MemberVO;
+
+@Service("msrv")
+public class MemberServiceImpl implements MemberService{
+
+	@Autowired MemberDAO mdao;
+	
+	@Override
+	public void joinMember(MemberVO mvo) {
+		if(mdao.insertMember(mvo) > 0)
+			System.out.println("회원가입완료!!");
+	}
+}

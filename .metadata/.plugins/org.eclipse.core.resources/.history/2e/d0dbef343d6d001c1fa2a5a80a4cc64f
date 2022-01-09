@@ -1,0 +1,2 @@
+# oracle jdbc sql
+newmember = insert into member_playground (mno, userid, passwd, email, name) values (mbpseq.nextval, ?,?,'-',?) 

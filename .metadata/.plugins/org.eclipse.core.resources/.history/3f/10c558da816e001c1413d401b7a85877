@@ -1,0 +1,3 @@
+# oracle jdbc sql
+newmember = INSERT INTO MEMBER_playground (mno, userid, passwd, email, name) VALUES (mbpseq.nextval, ?,?,'-',?)
+loginmember = SELECT COUNT(mno) cnt FROM MEMBER_playground WHERE userid = ? AND passwd = ?

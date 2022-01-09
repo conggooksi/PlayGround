@@ -1,0 +1,17 @@
+package hello.spring4.mvc.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+
+@Controller
+public class indexController {
+	
+	
+	public String index(Model model) {
+		
+		model.addAttribute("msg", "Hello, World!!!");
+		
+		return "index";
+	}
+	
+}

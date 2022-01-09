@@ -1,0 +1,49 @@
+<%@ page contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
+
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>SemiProjectV1-index</title>
+    <style>
+        * { margin: 0; padding: 0; list-style: none; }
+        /* css reset */
+        
+        #container { /*border: 1px solid red; */
+                     width: 970px; margin: 0 auto; }
+        /* ì ì²´ ë ì´ìì ì§ì  */
+        
+        nav ul { padding-top: 25px; }
+        nav ul li { float: left; margin-left: 120px;
+                    padding-bottom: 10px}
+        /* ë¤ë¹ê²ì´ì ë©ë´ */
+        
+        hr { clear: both;
+                    height: 2px; background: black}
+        /* êµ¬ë¶ì  - ëê», ë°°ê²½ì ì§ì  */
+        
+        #main { min-height: 500px }
+        /* ë©ì¸ ìì­ */
+        
+        footer p { text-align: center; margin: 5px 0; }
+        /* í¸í° ìì­ */
+        
+        a { font-weight: bold; }
+        a:link { text-decoration: none; color: black; }
+        a:visited { text-decoration: none; color: black; }
+        a:hover { text-decoration: underline; color: red; }
+        a:active { text-decoration: underline; color: orange; }
+        /* ë§í¬ì ëí ì¤íì¼ - ë°ì¤ì ê±°, ë§í¬ìì ê³ ì  */
+        
+    </style>
+</head>
+<body>
+    <div id="container">
+    
+        <div id="main">
+            
+        </div>
+    
+    </div>
+</body>
+</html>
